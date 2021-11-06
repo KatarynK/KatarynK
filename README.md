@@ -1,0 +1,13 @@
+I go by kyle, usually. I've been interested in Stalwart, 
+Had this user ID for 20 years. I need to learn how e-coins work, how to safely hold a wallet and securely store keys, both as backup and emergency. 
+
+- 👋 Hi, I’m @KatarynK
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+KatarynK/KatarynK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
